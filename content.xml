@@ -1,0 +1,1279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20261116000337I50KIZ</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20261116000337CG3861</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.6</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Operaciones con polinomios</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>César Alejandro Escorcia Santander</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Aprende suma, resta, multiplicación y división de polinomios.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.6</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1794892033205</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_passScore</key>
+    <value>5</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_passScoreEveryActivity</key>
+    <value>false</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>25c0c5ec-6271-431f-a972-6aad66b71ca4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Operaciones con polinomios</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Operaciones con polinomios</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Operaciones con polinomios</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Operaciones con polinomios</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>25c0c5ec-6271-431f-a972-6aad66b71ca4</odePageId>
+      <odeBlockId>block-mwiunh6v-om2hwq05s</odeBlockId>
+      <blockName>1. Suma de polinomios</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>25c0c5ec-6271-431f-a972-6aad66b71ca4</odePageId>
+          <odeBlockId>block-mwiunh6v-om2hwq05s</odeBlockId>
+          <odeIdeviceId>idevice-1794808519876-x6jmrd4v3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Bienvenido a tu curso de matemáticas, recuerda: estudia el video tomando las notas pertinentes en tu cuaderno y de ser posible, repite los ejercicios sin ver el video. </p>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 300px;"><iframe width="300" height="150" src="https://www.youtube.com/embed/T2JPn8mo3P8?si=uT16TCrVrDCNlrLx" allowfullscreen="allowfullscreen"></iframe>
+<figcaption class="figcaption"><span class="author">César A. Escorcia Santander</span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Una vez comprendido el tema, da clic en siguiente o en la flecha de la parte superior derecha para realizar la actividad propuesta.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794808519876-x6jmrd4v3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Bienvenido a tu curso de matemáticas, recuerda: estudia el video tomando las notas pertinentes en tu cuaderno y de ser posible, repite los ejercicios sin ver el video. </p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 300px;\"><iframe width=\"300\" height=\"150\" src=\"https://www.youtube.com/embed/T2JPn8mo3P8?si=uT16TCrVrDCNlrLx\" allowfullscreen=\"allowfullscreen\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">César A. Escorcia Santander</span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Una vez comprendido el tema, da clic en siguiente o en la flecha de la parte superior derecha para realizar la actividad propuesta.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwiuzb0t-7wnder0jt</odePageId>
+  <odeParentPageId>25c0c5ec-6271-431f-a972-6aad66b71ca4</odeParentPageId>
+  <pageName>Actividad 1-1</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 1-1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 1-1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwiuzb0t-7wnder0jt</odePageId>
+      <odeBlockId>block-mwiv0fma-uwl8ygw7v</odeBlockId>
+      <blockName>Suma de polinomios</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwiuzb0t-7wnder0jt</odePageId>
+          <odeBlockId>block-mwiv0fma-uwl8ygw7v</odeBlockId>
+          <odeIdeviceId>idevice-1794809124369-qh3nm45uz</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1794809124369-qh3nm45uz" data-evaluationb="false" data-evaluationid="75ca1c9c-c6c7-4fd2-b526-d29ca5130ed8"></div>
+            <div id="frmMainContainer-idevice-1794809124369-qh3nm45uz" class="form-IDevice" data-id="idevice-1794809124369-qh3nm45uz">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>Responde a las preguntas del cuestionario, eligiendo la respuesta que consideres correcta:</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1794809124369-qh3nm45uz">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1794809124369-qh3nm45uz" style="display:none;">
+                      <button  id="frmStartGame-idevice-1794809124369-qh3nm45uz" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1794809124369-qh3nm45uz" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1794809124369-qh3nm45uz" > </div>
+                        <div id="frmCover-idevice-1794809124369-qh3nm45uz" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1794809124369-qh3nm45uz" class="form-results-container inline">
+                        <div id="form-score-idevice-1794809124369-qh3nm45uz" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1794809124369-qh3nm45uz" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1794809124369-qh3nm45uz" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1794809124369-qh3nm45uz" />
+                        <input id="form-button-reset-idevice-1794809124369-qh3nm45uz" type="button" value="Reiniciar"
+                            data-id="idevice-1794809124369-qh3nm45uz" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-idevice-1794809124369-qh3nm45uz" class="btn btn-primary" type="button" value="Mostrar respuestas"
+                            data-id="idevice-1794809124369-qh3nm45uz" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer d-flex align-items-center justify-content-end mx-auto p-0 w-100"></div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794809124369-qh3nm45uz","evaluation":false,"evaluationID":"75ca1c9c-c6c7-4fd2-b526-d29ca5130ed8","passScoreMode":"custom","passScoreCustom":7,"repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgPassScore":"Puntuación mínima necesaria para aprobar esta actividad: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia","msgOk":"Correcto","msgKO":"Incorrecto","msgHide":"Ocultar"},"id":"idevice-1794809124369-qh3nm45uz","questionsRandom":false,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>Responde a las preguntas del cuestionario, eligiendo la respuesta que consideres correcta:</p>","questionsData":[{"id":"1794812011033-OVQ5C","activityType":"selection","baseText":"<p>Suma \\((5x-3y+9)\\) y \\((-7x-5y-3)\\):</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"\\(-2x-8y+6\\)"],[false,"\\(2x+8y+6\\)"],[false,"\\(-2x-8y-6\\)"],[false,"\\(2x-8y+6\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794809394558-C34V0","activityType":"selection","baseText":"<p>\\(3x^2-2xy-7y^2+5-9x^2+xy-5y^2+3-2x^2+5xy-y^2-4=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\(3x^2-5xy+9y^2-7\\)"],[true,"\\(-8x^2+4xy-13y^2+4\\)"],[false,"\\(8x^2+4xy+13y^2+4\\)"],[false,"\\(-8x^2-4xy-13y^2-4\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794809924002-37AG0","activityType":"selection","baseText":"<p>Suma \\((2x^2-6x-7)\\) con \\((5x^2+9x-12)\\):</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\(-7x^2-3x+19\\)"],[false,"\\(7x^2+3x+19\\)"],[true,"\\(7x^2+3x-19\\)"],[false,"\\(-7x^2-3x-19\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794810455550-N9JD8","activityType":"selection","baseText":"<p>\\(7x^2+8xy-9y^2-3+5x^2-10xy-3y^2+8-5x^2-9xy+7y^2-4=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"\\(7x^2-11xy-5y^2+1\\)"],[false,"\\(-7x^2-11xy-5y^2-1\\)"],[false,"\\(7x^2+11xy+5y^2+1\\)"],[false,"\\(7x^2-11xy+5y^2-1\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794811027667-4972Y","activityType":"selection","baseText":"<p>\\(8a^2-6a+9-7a^2-8a+3-2a^2+7ab-5+4a^2-6a+9-8b^3+3=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\(3a^2+20a-19+7ab-8b^3\\)"],[false,"\\(-3a^2+20a+19+7ab-8b^3\\)"],[false,"\\(3a^2+20a-19-7ab+8b^3\\)"],[true,"\\(3a^2-20a+19+7ab-8b^3\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794811362522-H4V93","activityType":"selection","baseText":"<p>Suma lo siguiente:</p>\n<p>\\((3m^2-5m-9)\\)</p>\n<p>\\((-7m^2+8m-2)\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\(4m^2-3m+11\\)"],[false,"\\(-4m^2-3m-11\\)"],[true,"\\(-4m^2+3m-11\\)"],[false,"\\(4m^2+3m+11\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794811741867-G5A7O","activityType":"selection","baseText":"<p>\\(2a^2-3a+8+9a^2-7a-11+5a^2+2a-4+5a^2-a+3ab-8+9a^2=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"\\(21a^2-9a-15+3ab+9a^2\\)"],[false,"\\(21a^2+9a+15+3ab+9a^2\\)"],[false,"\\(21a^2-9a-15-3ab-9a^2\\)"],[false,"\\(-21a^2-9a+15+3ab-9a^2\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794812312409-ZDSY7","activityType":"selection","baseText":"<p>\\(5x^2-4xy+7y^2-8+2x^2-6xy-2y^2+3-11x^2+8xy-6y^2+8x-4=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"\\(4x^2-2xy-y^2-5+8x-4\\)"],[false,"\\(4x^2+2xy+y^2-5+8x-4\\)"],[false,"\\(4x^2-2xy-y^2-5-8x+4\\)"],[false,"\\(-4x^2+2xy+y^2-5+8x-4\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwjrd84w-88jc2l4ja</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Multiplicación de polinomios</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Multiplicación de polinomios</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Multiplicación de polinomios</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwjrd84w-88jc2l4ja</odePageId>
+      <odeBlockId>block-mwjrd9xm-x0zqg55r0</odeBlockId>
+      <blockName>Multiplicación de polinomios</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwjrd84w-88jc2l4ja</odePageId>
+          <odeBlockId>block-mwjrd9xm-x0zqg55r0</odeBlockId>
+          <odeIdeviceId>idevice-1794863471241-k1hgxlok5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Vamos a continuar nuestro estudio con la multiplicación de polinomios, recuerda detener el video para ir tomando las notas pertinentes en tu cuaderno y de ser posible realizar cada ejercicio del video en tu cuaderno para verificar que se haya comprendido.</p>
+<ol>
+<li>Estudia solo la multiplicación de <em><strong>monomios por monomios </strong></em>y resuelve la actividad 2-1.</li>
+<li>Una vez resuelta la actividad 1 regresa al video y estudia el siguiente caso <em><strong>monomio por polinomio</strong></em>, realiza la actividad 2-2.</li>
+<li>Una vez resuelta la actividad 2 regresa al video a estudiar el tercer caso <strong><em>polinomio por polinomio</em></strong> y realiza la actividad 2-3.</li>
+</ol>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 300px;" id="fig_wivpo2xei"><iframe width="300" height="150" src="https://www.youtube.com/embed/jEUNr43DP_8?si=nyvyFCtpgC0TTIFW" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="author">César A. Escorcia Santander</span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Una vez comprendido el o los temas da clic en siguiente (flecha) en la parte superior derecha para continuar con la actividad de verificación.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794863471241-k1hgxlok5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Vamos a continuar nuestro estudio con la multiplicación de polinomios, recuerda detener el video para ir tomando las notas pertinentes en tu cuaderno y de ser posible realizar cada ejercicio del video en tu cuaderno para verificar que se haya comprendido.</p>\n<ol>\n<li>Estudia solo la multiplicación de <em><strong>monomios por monomios </strong></em>y resuelve la actividad 2-1.</li>\n<li>Una vez resuelta la actividad 1 regresa al video y estudia el siguiente caso <em><strong>monomio por polinomio</strong></em>, realiza la actividad 2-2.</li>\n<li>Una vez resuelta la actividad 2 regresa al video a estudiar el tercer caso <strong><em>polinomio por polinomio</em></strong> y realiza la actividad 2-3.</li>\n</ol>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 300px;\" id=\"fig_wivpo2xei\"><iframe width=\"300\" height=\"150\" src=\"https://www.youtube.com/embed/jEUNr43DP_8?si=nyvyFCtpgC0TTIFW\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">César A. Escorcia Santander</span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Una vez comprendido el o los temas da clic en siguiente (flecha) en la parte superior derecha para continuar con la actividad de verificación.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwjrix1o-mtmuuyzev</odePageId>
+  <odeParentPageId>page-mwjrd84w-88jc2l4ja</odeParentPageId>
+  <pageName>Actividad 2-1</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 2-1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 2-1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwjrix1o-mtmuuyzev</odePageId>
+      <odeBlockId>block-mwjrj37l-twxrl0nx6</odeBlockId>
+      <blockName>Multiplicación de monomio por monomio</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwjrix1o-mtmuuyzev</odePageId>
+          <odeBlockId>block-mwjrj37l-twxrl0nx6</odeBlockId>
+          <odeIdeviceId>idevice-1794863742464-f6slclpyl</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1794863742464-f6slclpyl" data-evaluationb="false" data-evaluationid="99a46a38-688e-445f-a720-15e06f6c74b8"></div>
+            <div id="frmMainContainer-idevice-1794863742464-f6slclpyl" class="form-IDevice" data-id="idevice-1794863742464-f6slclpyl">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>En la siguiente actividad solo resolverás ejercicios de MULTIPLICACIÓN DE MONOMIOS POR MONOMIOS, si no alcanzas puntuación de 8 hacia arriba repasa en el video la multiplicación de monomios y vuelve a realizar la actividad.</p>
+<p>Responde a las preguntas del cuestionario</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1794863742464-f6slclpyl">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1794863742464-f6slclpyl" style="display:none;">
+                      <button  id="frmStartGame-idevice-1794863742464-f6slclpyl" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1794863742464-f6slclpyl" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1794863742464-f6slclpyl" > </div>
+                        <div id="frmCover-idevice-1794863742464-f6slclpyl" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1794863742464-f6slclpyl" class="form-results-container inline">
+                        <div id="form-score-idevice-1794863742464-f6slclpyl" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1794863742464-f6slclpyl" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1794863742464-f6slclpyl" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1794863742464-f6slclpyl" />
+                        <input id="form-button-reset-idevice-1794863742464-f6slclpyl" type="button" value="Reiniciar"
+                            data-id="idevice-1794863742464-f6slclpyl" class="btn btn-primary"  style="display:none" />
+                        
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer d-flex align-items-center justify-content-end mx-auto p-0 w-100"></div>
+                <div class="form-instructions"><p>Si obtuviste más de 8 en tu puntuación regresa al video para estudiar el siguiente caso y realizar la siguiente actividad</p></div>
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794863742464-f6slclpyl","evaluation":false,"evaluationID":"99a46a38-688e-445f-a720-15e06f6c74b8","passScoreMode":"custom","passScoreCustom":8,"repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgPassScore":"Puntuación mínima necesaria para aprobar esta actividad: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia","msgOk":"Correcto","msgKO":"Incorrecto","msgHide":"Ocultar"},"id":"idevice-1794863742464-f6slclpyl","questionsRandom":true,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>En la siguiente actividad solo resolverás ejercicios de MULTIPLICACIÓN DE MONOMIOS POR MONOMIOS, si no alcanzas puntuación de 8 hacia arriba repasa en el video la multiplicación de monomios y vuelve a realizar la actividad.</p>\n<p>Responde a las preguntas del cuestionario</p>","questionsData":[{"id":"1794864564903-X2116","activityType":"selection","baseText":"<p>\\((-3a^2b)(-5ab^4)(-2a^3b^2c^3)=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\(30a^6b^7c^3\\)"],[false,"\\(-30a^6b^8c^3\\)"],[false,"\\(30a^6b^8c^3\\)"],[true,"\\(-30a^6b^7c^3\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794863913890-P11WS","activityType":"selection","baseText":"<p>\\((2x^2y^3)(-5x^4y^3)(-2xy^4z)=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\(-20x^7y^{10}z\\)"],[false,"\\(9x^7y^{10}z\\)"],[true,"\\(20x^7y^{10}z\\)"],[false,"\\(20x^7y^{10}\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794864237242-QKDZF","activityType":"selection","baseText":"<p>Recuerda que una potencia es una multiplicación simplificada \\(a^3=(a)(a)(a)\\) tomando esto en cuenta, resuelve: \\((3x^2y^4)^3=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"\\(27x^6y^{12}\\)"],[false,"\\(-27x^6y^{12}\\)"],[false,"\\(27x^5y^7\\)"],[false,"\\(-27x^5y^7\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794864760045-OWB56","activityType":"selection","baseText":"<p>Recuerda que una potencia es una multiplicación simplificada \\(a^3=(a)(a)(a)\\) tomando esto en cuenta, resuelve: \\((-5x^3y^2z)^3=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\(125x^9y^6z^3\\)"],[true,"\\(-125x^9y^6z^3\\)"],[false,"\\(-125x^6y^5z^4\\)"],[false,"\\(125x^6y^5z^4\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794866070638-IRW2X","activityType":"selection","baseText":"<p>\\((2m^3n^4)(-5m^4n^6)(3mn^2)(mn)=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\(30m^9n^{13}\\)"],[true,"\\(-30m^9n^{13}\\)"],[false,"\\(-10m^9n^{13}\\)"],[false,"\\(-11m^9n^{13}\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794866226303-S6E4L","activityType":"selection","baseText":"<p>Recuerda que una potencia es una multiplicación simplificada \\(a^3=(a)(a)(a)\\) tomando esto en cuenta, resuelve: \\((-m^3n^2z)^9=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"\\(m{27}n^{18}z^9\\)"],[false,"\\(-9m{27}n^{18}z^9\\)"],[false,"\\(9m{27}n^{18}z^9\\)"],[false,"\\(-m{27}n^{18}z^9\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"addBtnAnswers":false,"eXeIdeviceTextAfter":"<p>Si obtuviste más de 8 en tu puntuación regresa al video para estudiar el siguiente caso y realizar la siguiente actividad</p>","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwjt8r3p-ml6g111d7</odePageId>
+  <odeParentPageId>page-mwjrd84w-88jc2l4ja</odeParentPageId>
+  <pageName>Actividad 2-2</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 2-2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 2-2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwjt8r3p-ml6g111d7</odePageId>
+      <odeBlockId>block-mwjtaoq1-g2fvkzz0y</odeBlockId>
+      <blockName>Monomios por polinomios</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwjt8r3p-ml6g111d7</odePageId>
+          <odeBlockId>block-mwjtaoq1-g2fvkzz0y</odeBlockId>
+          <odeIdeviceId>idevice-1794866709673-mjqap6czt</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1794866709673-mjqap6czt" data-evaluationb="false" data-evaluationid="99a46a38-688e-445f-a720-15e06f6c74b8"></div>
+            <div id="frmMainContainer-idevice-1794866709673-mjqap6czt" class="form-IDevice" data-id="idevice-1794866709673-mjqap6czt">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>En la presente actividad solo resolverás ejercicios de multiplicación de monomios por polinomios una vez aprobada con más de 8 regresa al video para estudiar polinomios por polinomios.</p>
+<p>Responde a las preguntas del cuestionario</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1794866709673-mjqap6czt">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1794866709673-mjqap6czt" style="display:none;">
+                      <button  id="frmStartGame-idevice-1794866709673-mjqap6czt" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1794866709673-mjqap6czt" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1794866709673-mjqap6czt" > </div>
+                        <div id="frmCover-idevice-1794866709673-mjqap6czt" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1794866709673-mjqap6czt" class="form-results-container inline">
+                        <div id="form-score-idevice-1794866709673-mjqap6czt" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1794866709673-mjqap6czt" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1794866709673-mjqap6czt" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1794866709673-mjqap6czt" />
+                        <input id="form-button-reset-idevice-1794866709673-mjqap6czt" type="button" value="Reiniciar"
+                            data-id="idevice-1794866709673-mjqap6czt" class="btn btn-primary"  style="display:none" />
+                        
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer d-flex align-items-center justify-content-end mx-auto p-0 w-100"></div>
+                <div class="form-instructions"><p>Una vez terminada esta actividad regresa al video para estudiar polinomio por polinomio y resolver la actividad 2-3.</p></div>
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794866709673-mjqap6czt","evaluation":false,"evaluationID":"99a46a38-688e-445f-a720-15e06f6c74b8","passScoreMode":"global","passScoreCustom":5,"repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgPassScore":"Puntuación mínima necesaria para aprobar esta actividad: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia","msgOk":"Correcto","msgKO":"Incorrecto","msgHide":"Ocultar"},"id":"idevice-1794866709673-mjqap6czt","questionsRandom":true,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>En la presente actividad solo resolverás ejercicios de multiplicación de monomios por polinomios una vez aprobada con más de 8 regresa al video para estudiar polinomios por polinomios.</p>\n<p>Responde a las preguntas del cuestionario</p>","questionsData":[{"id":"1794875530811-5RPW7","activityType":"selection","baseText":"<p>\\(-5x^3(3x^4-2x^3+7x^2-x+6)=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\(15x^7+10x^6-35x^5+5x^4-30x^3\\)"],[true,"\\(-15x^7+10x^6-35x^5+5x^4-30x^3\\)"],[false,"\\(-15x^7+10x^6+35x^5+5x^4-30x^3\\)"],[false,"\\(-15x^7+10x^6-35x^5+5x^4+30x^3\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794867061416-KFQLL","activityType":"selection","baseText":"<p>\\(2x^2y^3(3x^2-7xy+9y^2-6)=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\(6x^4y^3+14x^3y^4+18x^2y^5-12x^2y^3\\)"],[false,"\\(6x^4y^3+14x^3y^4+18x^2y^5+12x^2y^3\\)"],[true,"\\(6x^4y^3-14x^3y^4+18x^2y^5-12x^2y^3\\)"],[false,"\\(-6x^4y^3-14x^3y^4+18x^2y^5+12x^2y^3\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794874987030-3V6XJ","activityType":"selection","baseText":"<p>\\((-3a^4b)(-5a^4-7a^3b^8+a^4b^6-3b^7+5)=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"\\(15a^8b+21a^7b^9-3^8b^7+9a^4b^8-15a^4b\\)"],[false,"\\(-15a^8b+21a^7b^9-3^8b^7+9a^4b^8-15a^4b\\)"],[false,"\\(15a^8b-21a^7b^9-3^8b^7-9a^4b^8-15a^4b\\)"],[false,"\\(15a^8b+21a^7b^9-3^8b^7+9a^4b^8+15a^4b\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794875743210-9EM1M","activityType":"selection","baseText":"<p>\\((7a)(7a^2-6a-4)=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\(49a^3+42a^2-28a\\)"],[false,"\\(49a^3-42a^2+28a\\)"],[false,"\\(49a^3+42a^2+28a\\)"],[true,"\\(49a^3-42a^2-28a\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794876388872-1GYI4","activityType":"selection","baseText":"<p>\\(-x^3y^4(-2x^4+xy^3-2x^2y+3y-5)=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\(2x^7y^4-x^4y^7-2x^5y^5-3x^3y^5+5x^3y^4\\)"],[true,"\\(2x^7y^4-x^4y^7+2x^5y^5-3x^3y^5+5x^3y^4\\)"],[false,"\\(2x^7y^4+x^4y^7+2x^5y^5-3x^3y^5-5x^3y^4\\)"],[false,"\\(2x^7y^4-x^4y^7-2x^5y^5+3x^3y^5+5x^3y^4\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"addBtnAnswers":false,"eXeIdeviceTextAfter":"<p>Una vez terminada esta actividad regresa al video para estudiar polinomio por polinomio y resolver la actividad 2-3.</p>","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwjz39h1-jktfo88bs</odePageId>
+  <odeParentPageId>page-mwjrd84w-88jc2l4ja</odeParentPageId>
+  <pageName>Actividad 2-3</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 2-3</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 2-3</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwjz39h1-jktfo88bs</odePageId>
+      <odeBlockId>block-mwjz3gqb-vr278ral6</odeBlockId>
+      <blockName>Polinomio por polinomio</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwjz39h1-jktfo88bs</odePageId>
+          <odeBlockId>block-mwjz3gqb-vr278ral6</odeBlockId>
+          <odeIdeviceId>idevice-1794876450418-gckhnc8dx</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1794876450418-gckhnc8dx" data-evaluationb="false" data-evaluationid="99a46a38-688e-445f-a720-15e06f6c74b8"></div>
+            <div id="frmMainContainer-idevice-1794876450418-gckhnc8dx" class="form-IDevice" data-id="idevice-1794876450418-gckhnc8dx">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>Si al terminar la presente actividad obtuviste un puntaje arriba de 8, da clic en siguiente (la flecha) en la parte superior derecha para realizar la actividad integradora de multiplicación de polinomios.</p>
+<p>Responde a las preguntas del cuestionario</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1794876450418-gckhnc8dx">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1794876450418-gckhnc8dx" style="display:none;">
+                      <button  id="frmStartGame-idevice-1794876450418-gckhnc8dx" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1794876450418-gckhnc8dx" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1794876450418-gckhnc8dx" > </div>
+                        <div id="frmCover-idevice-1794876450418-gckhnc8dx" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1794876450418-gckhnc8dx" class="form-results-container inline">
+                        <div id="form-score-idevice-1794876450418-gckhnc8dx" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1794876450418-gckhnc8dx" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1794876450418-gckhnc8dx" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1794876450418-gckhnc8dx" />
+                        <input id="form-button-reset-idevice-1794876450418-gckhnc8dx" type="button" value="Reiniciar"
+                            data-id="idevice-1794876450418-gckhnc8dx" class="btn btn-primary"  style="display:none" />
+                        
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer d-flex align-items-center justify-content-end mx-auto p-0 w-100"></div>
+                <div class="form-instructions"><p>Si al terminar la presente actividad obtuviste un puntaje arriba de 8, da clic en siguiente (la flecha) en la parte superior derecha para realizar la actividad integradora de multiplicación de polinomios.</p></div>
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794876450418-gckhnc8dx","evaluation":false,"evaluationID":"99a46a38-688e-445f-a720-15e06f6c74b8","passScoreMode":"global","passScoreCustom":5,"repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgPassScore":"Puntuación mínima necesaria para aprobar esta actividad: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia","msgOk":"Correcto","msgKO":"Incorrecto","msgHide":"Ocultar"},"id":"idevice-1794876450418-gckhnc8dx","questionsRandom":true,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>Si al terminar la presente actividad obtuviste un puntaje arriba de 8, da clic en siguiente (la flecha) en la parte superior derecha para realizar la actividad integradora de multiplicación de polinomios.</p>\n<p>Responde a las preguntas del cuestionario</p>","questionsData":[{"id":"1794878778143-BG4PI","activityType":"selection","baseText":"<p>\\((3m-2)(4m+3)=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\(12m^2-m-6\\)"],[false,"\\(12m^2+m+6\\)"],[true,"\\(12m^2+m-6\\)"],[false,"\\(12m^2-m+6\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794876752394-31XRA","activityType":"selection","baseText":"<p>\\((5x^2-6x+9)(3x^2-4x+8) =\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\(15x^4-38x^3-37x^2-12x-72\\)"],[false,"\\(15x^4-38x^3+37x^2-12x+72\\)"],[false,"\\(15x^4-38x^3-37x^2+12x-72\\)"],[true,"\\(15x^4-38x^3+37x^2-12x-72\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794876944874-AG087","activityType":"selection","baseText":"<p>\\((4x^2-6xy+7y^2)(2x^2+3xy-9y^2)=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"\\(8x^4-40x^2y^2+75xy^3-63y^4\\)"],[false,"\\(8x^4-40x^2y^2-75xy^3-63y^4\\)"],[false,"\\(8x^4+40x^2y^2+75xy^3-63y^4\\)"],[false,"\\(8x^4+40x^2y^2+75xy^3+63y^4\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794878560723-Z6U1N","activityType":"selection","baseText":"<p>\\((2a^2-3a-2)(5a^2+4a+3)=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\(10a^4-7a^3+16a^2-17a-6\\)"],[false,"\\(10a^4+7a^3-16a^2+17a-6\\)"],[true,"\\(10a^4-7a^3-16a^2-17a-6\\)"],[false,"\\(-10a^4-7a^3-16a^2-17a-6\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794879034633-VEO4K","activityType":"selection","baseText":"<p>\\((5x-2y)(7x-3y)=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\(35x^2+29xy+6y^2\\)"],[false,"\\(35x^2-29xy-6y^2\\)"],[true,"\\(35x^2-29xy+6y^2\\)"],[false,"\\(35x^2+29xy-6y^2\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794879545803-G64GS","activityType":"selection","baseText":"<p>\\((9-5y)(7+2y)=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"\\(-10y^2-17y+63\\)"],[false,"\\(10y^2-17y+63\\)"],[false,"\\(-10y^2+17y+63\\)"],[false,"\\(-10y^2+17y-63\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794880319360-2JNSH","activityType":"selection","baseText":"<p>\\((4x^2-5x)(7x^2+3x)=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\(-28x^4+23x^3-15x^2\\)"],[false,"\\(28x^4-23x^3+15x^2\\)"],[false,"\\(28x^4+23x^3+15x^2\\)"],[true,"\\(28x^4-23x^3-15x^2\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"addBtnAnswers":false,"eXeIdeviceTextAfter":"<p>Si al terminar la presente actividad obtuviste un puntaje arriba de 8, da clic en siguiente (la flecha) en la parte superior derecha para realizar la actividad integradora de multiplicación de polinomios.</p>","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwk1gu3x-hodryusko</odePageId>
+  <odeParentPageId>page-mwjrd84w-88jc2l4ja</odeParentPageId>
+  <pageName>Actividad 2-4</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 2-4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 2-4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwk1gu3x-hodryusko</odePageId>
+      <odeBlockId>block-mwk1gvjz-hbxuh1n19</odeBlockId>
+      <blockName>Multiplicación de polinomios</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwk1gu3x-hodryusko</odePageId>
+          <odeBlockId>block-mwk1gvjz-hbxuh1n19</odeBlockId>
+          <odeIdeviceId>idevice-1794880435390-waj5gmna7</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1794880435390-waj5gmna7" data-evaluationb="false" data-evaluationid="99a46a38-688e-445f-a720-15e06f6c74b8"></div>
+            <div id="frmMainContainer-idevice-1794880435390-waj5gmna7" class="form-IDevice" data-id="idevice-1794880435390-waj5gmna7">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>Cuestionario de multiplicación de polinomios, todos sus casos ya que no solo debemos saber resolverlos sino identificarlos.</p>
+<p>Responde a las preguntas del cuestionario</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1794880435390-waj5gmna7">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1794880435390-waj5gmna7" style="display:none;">
+                      <button  id="frmStartGame-idevice-1794880435390-waj5gmna7" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1794880435390-waj5gmna7" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1794880435390-waj5gmna7" > </div>
+                        <div id="frmCover-idevice-1794880435390-waj5gmna7" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1794880435390-waj5gmna7" class="form-results-container inline">
+                        <div id="form-score-idevice-1794880435390-waj5gmna7" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1794880435390-waj5gmna7" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1794880435390-waj5gmna7" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1794880435390-waj5gmna7" />
+                        <input id="form-button-reset-idevice-1794880435390-waj5gmna7" type="button" value="Reiniciar"
+                            data-id="idevice-1794880435390-waj5gmna7" class="btn btn-primary"  style="display:none" />
+                        
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer d-flex align-items-center justify-content-end mx-auto p-0 w-100"></div>
+                <div class="form-instructions"><p>Si aprobaste con más de 8 continua con el siguiente tema, sino, regresa a estudiar el video de multiplicación de polinomios.</p></div>
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794880435390-waj5gmna7","evaluation":false,"evaluationID":"99a46a38-688e-445f-a720-15e06f6c74b8","passScoreMode":"global","passScoreCustom":5,"repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgPassScore":"Puntuación mínima necesaria para aprobar esta actividad: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia","msgOk":"Correcto","msgKO":"Incorrecto","msgHide":"Ocultar"},"id":"idevice-1794880435390-waj5gmna7","questionsRandom":true,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>Cuestionario de multiplicación de polinomios, todos sus casos ya que no solo debemos saber resolverlos sino identificarlos.</p>\n<p>Responde a las preguntas del cuestionario</p>","questionsData":[{"id":"1794887207708-7BZHC","activityType":"selection","baseText":"<p>\\((3x^2-6x)(3x^2+6x)=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"\\(9x^4-36x^2\\)"],[false,"\\(9x^4+36x^2\\)"],[false,"\\(9x^4-36x^3+36\\)"],[false,"\\(9x^4+36x^3+36\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794880792314-3LO7S","activityType":"selection","baseText":"<p>\\((4x^2-3x+1)(7x^2+3x-2)=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"\\(28x^4+9x^3-10x^2+9x-2\\)"],[false,"\\(28x^4-9x^3-10x^2+9x+2\\)"],[false,"\\(28x^4+9x^3-10x^2-9x-2\\)"],[false,"\\(28x^4-9x^3-10x^2+9x-2\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794881958874-VOBCD","activityType":"selection","baseText":"<p>\\((4x^2y^5)(-7x^7y^3z)(9x^3y^7z)=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\(252x^{12}y^{15}z^2\\)"],[false,"\\(-252x^{15}y^{12}z^2\\)"],[true,"\\(-252x^{12}y^{15}z^2\\)"],[false,"\\(-252x^{12}y^{12}z^2\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794882438054-TH1WC","activityType":"selection","baseText":"<p>\\(4x^2y^4(-5x^2-3x-9)=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\(20x^4y^4-12x^3y^4-36x^2y^4\\)"],[false,"\\(-20x^4y^4+12x^3y^4-36x^2y^4\\)"],[false,"\\(-20x^4y^4+12x^3y^4+36x^2y^4\\)"],[true,"\\(-20x^4y^4-12x^3y^4-36x^2y^4\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794886348289-U78KF","activityType":"selection","baseText":"<p>\\((4x^2-7x+2)(-5x^2-3x-9)=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\(20X^4+23X^3-25X^2+57X-18\\)"],[false,"\\(-20X^4+23X^3-25X^2+57X+18\\)"],[true,"\\(-20X^4+23X^3-25X^2+57X-18\\)"],[false,"\\(-20X^4-23X^3+25X^2+57X-18\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794886668688-CPSSD","activityType":"selection","baseText":"<p>\\((4x^2y^7)(-5x^2-3xy-9y^2-5)=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\(-20x^4y^7+12x^3y^8-36x^2y^9-20x^2y^7\\)"],[false,"\\(-20x^4y^7-12x^3y^8-36x^2y^9+20x^2y^7\\)"],[false,"\\(-20x^4y^7+12x^3y^8+36x^2y^9-20x^2y^7\\)"],[true,"\\(-20x^4y^7-12x^3y^8-36x^2y^9-20x^2y^7\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794887027502-TBJ3V","activityType":"selection","baseText":"<p>\\((4x^2y^7)(-5x^2y^9)(7x^{10}y^4)(-2xy^3)=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\(-280x^{15}y^{23}\\)"],[true,"\\(280x^{15}y^{23}\\)"],[false,"\\(280x^{23}y^{15}\\)"],[false,"\\(280x^{12}y^{23}\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"addBtnAnswers":false,"eXeIdeviceTextAfter":"<p>Si aprobaste con más de 8 continua con el siguiente tema, sino, regresa a estudiar el video de multiplicación de polinomios.</p>","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwk5jl6q-yzruup6k2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. División de polinomios</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. División de polinomios</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. División de polinomios</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwk5jl6q-yzruup6k2</odePageId>
+      <odeBlockId>block-mwk5ldyq-0tn4qdeo1</odeBlockId>
+      <blockName>Monomio entre monomio</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwk5jl6q-yzruup6k2</odePageId>
+          <odeBlockId>block-mwk5ldyq-0tn4qdeo1</odeBlockId>
+          <odeIdeviceId>idevice-1794887364337-s9gew34le</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Estudia el siguiente video, tomando las notas necesarias en tu cuaderno.</p>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 300px;" id="fig_u334sgr3u"><iframe width="300" height="150" src="https://www.youtube.com/embed/Mu2IeTNa5ys?si=KTAnp884EbVJ2Lck" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="author">Daniel Carreón </span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Una vez comprendido el tema da clic en siguiente (flecha) en la parte superior izquierda para realizar tu actividad.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794887364337-s9gew34le","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Estudia el siguiente video, tomando las notas necesarias en tu cuaderno.</p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 300px;\" id=\"fig_u334sgr3u\"><iframe width=\"300\" height=\"150\" src=\"https://www.youtube.com/embed/Mu2IeTNa5ys?si=KTAnp884EbVJ2Lck\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">Daniel Carreón </span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Una vez comprendido el tema da clic en siguiente (flecha) en la parte superior izquierda para realizar tu actividad.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwk5wd1m-w6xc1wayg</odePageId>
+  <odeParentPageId>page-mwk5jl6q-yzruup6k2</odeParentPageId>
+  <pageName>Actividad 3-1</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 3-1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 3-1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwk5wd1m-w6xc1wayg</odePageId>
+      <odeBlockId>block-mwk5wwph-uwsripm4o</odeBlockId>
+      <blockName>Monomio entre monomio</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwk5wd1m-w6xc1wayg</odePageId>
+          <odeBlockId>block-mwk5wwph-uwsripm4o</odeBlockId>
+          <odeIdeviceId>idevice-1794887901843-7i4pw8bwe</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1794887901843-7i4pw8bwe" data-evaluationb="false" data-evaluationid="99a46a38-688e-445f-a720-15e06f6c74b8"></div>
+            <div id="frmMainContainer-idevice-1794887901843-7i4pw8bwe" class="form-IDevice" data-id="idevice-1794887901843-7i4pw8bwe">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>Responde a las preguntas del cuestionario</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1794887901843-7i4pw8bwe">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1794887901843-7i4pw8bwe" style="display:none;">
+                      <button  id="frmStartGame-idevice-1794887901843-7i4pw8bwe" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1794887901843-7i4pw8bwe" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1794887901843-7i4pw8bwe" > </div>
+                        <div id="frmCover-idevice-1794887901843-7i4pw8bwe" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1794887901843-7i4pw8bwe" class="form-results-container inline">
+                        <div id="form-score-idevice-1794887901843-7i4pw8bwe" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1794887901843-7i4pw8bwe" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1794887901843-7i4pw8bwe" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1794887901843-7i4pw8bwe" />
+                        <input id="form-button-reset-idevice-1794887901843-7i4pw8bwe" type="button" value="Reiniciar"
+                            data-id="idevice-1794887901843-7i4pw8bwe" class="btn btn-primary"  style="display:none" />
+                        
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer d-flex align-items-center justify-content-end mx-auto p-0 w-100"></div>
+                <div class="form-instructions"><p>Una vez comprendido el tema y si obtuviste mas de 8 puntos, continua con lo siguiente.</p></div>
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794887901843-7i4pw8bwe","evaluation":false,"evaluationID":"99a46a38-688e-445f-a720-15e06f6c74b8","passScoreMode":"global","passScoreCustom":5,"repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgPassScore":"Puntuación mínima necesaria para aprobar esta actividad: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia","msgOk":"Correcto","msgKO":"Incorrecto","msgHide":"Ocultar"},"id":"idevice-1794887901843-7i4pw8bwe","questionsRandom":true,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>Responde a las preguntas del cuestionario</p>","questionsData":[{"id":"1794888081893-1IK5H","activityType":"selection","baseText":"<p>\\(\\frac{-25x^9y^7}{-5x^4y^2}=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\(-5x^5y^5\\)"],[false,"\\(5x^{13}y^9\\)"],[false,"\\(-5x^{13}y^9\\)"],[true,"\\(5x^5y^5\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794888298172-M0XQK","activityType":"selection","baseText":"<p>\\(\\frac{42x^7y^9z^4}{-6x^3y^2}=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"\\(-7x^4y^7z^4\\)"],[false,"\\(-7x^4y^7\\)"],[false,"\\(7x^4y^7z^4\\)"],[false,"\\(7x^4y^7\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794888616978-O10PG","activityType":"selection","baseText":"<p>\\(\\frac{-9a^8b^{12}c}{-9ab^7}=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\(-a^7b^5c\\)"],[false,"\\(a^7b^5\\)"],[true,"\\(a^7b^5c\\)"],[false,"\\(-a^7b^5\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794888851236-XZK79","activityType":"selection","baseText":"<p>\\(\\frac{-84m^6n^4}{7m^3n}=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\(12m^3n^3\\)"],[false,"\\(-12m^9n^5\\)"],[true,"\\(-12m^3n^3\\)"],[false,"\\(12m^9n^5\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"addBtnAnswers":false,"eXeIdeviceTextAfter":"<p>Una vez comprendido el tema y si obtuviste mas de 8 puntos, continua con lo siguiente.</p>","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwk6kdgu-o27ch4hig</odePageId>
+  <odeParentPageId>page-mwk5jl6q-yzruup6k2</odeParentPageId>
+  <pageName>Polinomio entre polinomio</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Polinomio entre polinomio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Polinomio entre polinomio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwk6kdgu-o27ch4hig</odePageId>
+      <odeBlockId>block-mwk6khhb-6ss5pkwji</odeBlockId>
+      <blockName>Polinomio entre polinomio</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwk6kdgu-o27ch4hig</odePageId>
+          <odeBlockId>block-mwk6khhb-6ss5pkwji</odeBlockId>
+          <odeIdeviceId>idevice-1794889001854-ihz2n8x5x</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Estudia el siguiente video tomando las notas necesaria en tu cuaderno.</p>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 300px;" id="fig_mpfgfc82g"><iframe width="300" height="150" src="https://www.youtube.com/embed/bU9m3PF71Oo?si=bwzlct5fE3nq37m3" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="author">Daniel Carreón</span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 300px;" id="fig_447a5bygg"><iframe width="300" height="150" src="https://www.youtube.com/embed/ZPrTUwQQDk4?si=mmZl2C-Ht7NXoVL4" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="author">Daniel Carreón</span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Estas listo(a) para realizar el cuestionario 2 de tu plataforma.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794889001854-ihz2n8x5x","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Estudia el siguiente video tomando las notas necesaria en tu cuaderno.</p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 300px;\" id=\"fig_mpfgfc82g\"><iframe width=\"300\" height=\"150\" src=\"https://www.youtube.com/embed/bU9m3PF71Oo?si=bwzlct5fE3nq37m3\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">Daniel Carreón</span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 300px;\" id=\"fig_447a5bygg\"><iframe width=\"300\" height=\"150\" src=\"https://www.youtube.com/embed/ZPrTUwQQDk4?si=mmZl2C-Ht7NXoVL4\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">Daniel Carreón</span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Estas listo(a) para realizar el cuestionario 2 de tu plataforma.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
